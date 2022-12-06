@@ -1,0 +1,56 @@
+body{
+    background: linear-gradient(#b5e48c, #457b9d);
+    text-align: center;
+
+}
+
+
+#mobile_net{
+    font-size: 30px;
+}
+
+
+#label1{
+    font-size: 20px;
+}
+
+
+.test_image_and_result{
+    background: linear-gradient( #ff7db8,#ee2a7b);
+    width:950px;
+    height: 500px;
+    border-radius: 20px;
+   float: initial;
+    font-size: 25px;
+}   
+
+
+
+.test_image_and_result1{
+    background: linear-gradient( #ff7db8,#ee2a7b);
+    width:950px;
+    height: 300px;
+    border-radius: 20px;
+   float: initial;
+    font-size: 25px;
+}   
+
+.img2{
+    height:250px;
+    width: 250px;
+    border-radius: 20px;
+}
+
+
+
+
+.img{
+    height:450px;
+    border-radius: 20px;
+}
+
+
+.img1{
+    height:250px;
+    border-radius: 20px;
+}
